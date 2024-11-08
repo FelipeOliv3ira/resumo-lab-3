@@ -1,2 +1,7 @@
-# resumo-lab-3
-dio bootcamp
+# Configurações da máquina virtual
+O Azure disponibiliza várias imagens de sistema operacional e software para a criação de máquinas virtuais, que incluem desde sistemas Windows e Linux até imagens específicas para aplicações como servidores de banco de dados ou ferramentas de desenvolvimento. Durante a configuração, é possível visualizar uma prévia dos custos mensais com base nas opções selecionadas, permitindo que o usuário ajuste os recursos de acordo com seu orçamento e requisitos de desempenho.
+Além da imagem, o Azure permite configurar uma série de recursos adicionais para gerenciar a máquina virtual de forma eficiente, como armazenamento, gerenciamento, proteção, conexão e desligamento automático.
+
+# Configurando uma instância de banco de dados no Azure
+Ao configurar um banco de dados no Azure, o primeiro passo é criar um servidor. Esse servidor pode ser simbólico ou real, dependendo do uso pretendido, e permite a escolha do método de autenticação (como senha ou autenticação integrada com Azure Active Directory).
+O Azure apresenta várias opções para o tipo de banco de dados, cada um com suas configurações específicas. Ao escolher as opções de tamanho e recursos, o usuário pode visualizar uma estimativa dos custos mensais, o que facilita o planejamento financeiro. Outro ponto prático é que o Azure gera automaticamente um arquivo Excel contendo todas as informações do banco de dados configurado. Esse documento pode ser facilmente compartilhado com clientes ou membros da equipe, ajudando a manter todos os envolvidos informados sobre a infraestrutura, configurações de segurança, métodos de autenticação, e custos estimados.
